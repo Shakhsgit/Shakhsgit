@@ -1,7 +1,7 @@
 <h1 align="center">Hello! </h1>
 
 
-My name is Shakh, I am learning and practincing Machine learning and deep learning techniques. Learning is a never ending process and I enjoy to learn new concepts and skills everytime I try to solve a new problem. I will be glad if you like to collaborate or help me to solve new problems/projects or to discuss new ideas.
+Hello there! Nice to meet you :) I am an AI enthusiast, currently practincing Machine learning and deep learning techniques. Learning is a never ending process and I enjoy to learn new concepts and skills everytime I try to solve a new problem. I will be glad if you like to collaborate or help me to solve new problems/projects or to discuss new ideas.
 
 <h3 align="left">Fields of Interest: </h3> All techonologies related to Machine learning, Deep learning, Data Science,Big Data
 
