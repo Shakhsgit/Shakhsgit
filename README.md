@@ -1,6 +1,5 @@
 <h1 align="center">Hello! </h1>
 
-<h3 align="left">Introduction: </h3>
 
 My name is Shakh, I am learning and practincing Machine learning and deep learning techniques. Learning is a never ending process and I enjoy to learn new concepts and skills everytime I try to solve a new problem. I will be glad if you like to collaborate or help me to solve new problems/projects or to discuss new ideas.
 
