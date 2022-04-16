@@ -5,7 +5,7 @@ Hello ! I am a data science enthusiast. I beleive in data-centric solutions and 
 <table border="0">
  <tr>
     <td><b style="font-size:50px"> Interests and skills </b></td>
-    <td><b style="font-size:50px"> Projects </b></td>
+    <td><b style="font-size:50px"> Hands on Experience </b></td>
  </tr>
  <tr>
     <td>     
