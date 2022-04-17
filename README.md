@@ -29,10 +29,10 @@ VS Code, Jupyter Notebook, Google Colab, Git and Github, MySQL, Google Sheets, T
 <p align="left"> Email: 
    </td>
     <td> 
-      <h3 align="left"> Interests: </h3> Machine learning, Deep learning, Data Analytics
+      <h3 align="left"> What I can do </h3> Machine learning, Deep learning, Data Analytics
 <h3 align="left"> Skills:</h3>
 Statistics, Exploratory Data Analysis, Feature Engineering, Machine Learning, Deep Learning, Data Visualization.
-<h3 align="left">Programming Languages:</h3> 
+<h3 align="left"> Projects: </h3> 
 Python, MATLAB, SQL (Familiar with C, C++)
 
 <h3 align="left">Libraries and Frameworks:</h3>
