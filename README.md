@@ -1,8 +1,7 @@
 <h1 align="center"> Give me data I will tell you a story</h1>
 
 Hello ! I am a data science enthusiast. I beleive in data-centric solutions and more comfortable to work with numerical data. Learning is a never ending process and I enjoy to learn new concepts and skills everytime I try to solve a new problem. I will be glad if you like to collaborate or help me to solve new problems/projects or to discuss new ideas.
-#### Porfolio: [Analytics and Visualization Projects](getssultan@gmail.com)
-#### Contacts: [LinkedIn](https://www.linkedin.com/profile/) **Email:** getssultan@gmail.com
+#### Portfolio: [Portfolio Projects](getssultan@gmail.com)   ||  Contacts: [LinkedIn](https://www.linkedin.com/profile/) , Email: getssultan@gmail.com
 
 <table border="0">
  <tr>
