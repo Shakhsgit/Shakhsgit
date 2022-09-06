@@ -10,17 +10,17 @@ Hello ! I am a data science enthusiast. I beleive in data-centric solutions and 
  </tr>
  <tr>
     <td>     
-     <h3 align="left"> Interests: </h3> Machine learning, Deep learning, Data Analytics
-<h3 align="left"> Skills:</h3>
-Statistics, Exploratory Data Analysis, Feature Engineering, Machine Learning, Deep Learning, Data Visualization.
+     <h3 align="left"> Interests: </h3> Data Analytics, Machine learning, Big Data,Deep Learning and AI.
+<h3 align="left"> Core Skills:</h3>
+Statistics,Numerical Data Analysis, Exploratory Data Analysis, Feature Engineering, Machine Learning, Data Visualization, Problem Solving, Communication skills.
 <h3 align="left">Programming Languages:</h3> 
-Python, MATLAB, SQL (Familiar with C, C++)
+Python, MATLAB, SQL, (Familiar with C, C++)
 
 <h3 align="left">Libraries and Frameworks:</h3>
 Numpy, Pandas
 
 <h3 align="left"> Editors and Tools:</h3> 
-VS Code, Jupyter Notebook, Google Colab, Git and Github, MySQL, Google Sheets, Tableau Public
+Postgresql, Excel, Tableau Visualization, VS Code, Jupyter Notebook, Google Colab, Git and Github.
 
 <h3 align="left"> What I can do:</h3>
 
