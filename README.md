@@ -4,15 +4,8 @@ Hello ! I am a data science enthusiast. I beleive in data-centric solutions to r
 #### Portfolio: [Portfolio Projects](getssultan@gmail.com)   || Tableau Public: [Tableau Visualisations](https://public.tableau.com/app/profile/shahrukh.sultan)
 #### Contacts: [LinkedIn](https://www.linkedin.com/profile/) , Email: getssultan@gmail.com
 
-<table border="0">
- <tr>
-    <td><b style="font-size:50px"> Interests and skills </b></td>
-    <td><b style="font-size:50px"> Projects </b></td>
- </tr>
- <tr>
-    <td>     
-     <h3 align="left"> Interests: </h3> Data Analytics, Machine learning, Big Data,Deep Learning and AI.
-<h3 align="left"> Core Skills:</h3>
+<h1  align = "center">Skills and Interests</h1>
+Some content
 Statistics,Numerical Data Analysis, Exploratory Data Analysis, Feature Engineering, Machine Learning, Data Visualization, Problem Solving, Communication skills.
 <h3 align="left">Programming Languages:</h3> 
 Python, MATLAB, SQL, (Familiar with C, C++)
@@ -24,25 +17,23 @@ Numpy, Pandas
 Postgresql, Excel, Tableau Visualization, VS Code, Jupyter Notebook, Google Colab, Git and Github.
 
 
-   </td>
-    <td> 
- 
+ <h1  align = "center">Projects</h1>
  <h3 align="left"> End-to-end projects: </h3>
      
 <h3 align="left"> SQL Projects </h3> 
      
 
-<h3 align="left"> Python Projects: </h3> 
-[Graphical Analysis to Detect Fraudulent Transactions](https://github.com/shakhscode/Visual_Analytics-python)
+### Python Projects:
+- [Graphical Analysis to Detect Fradulent Transactions](https://github.com/shakhscode/Visual_Analytics-python)
+- 
+     
 
 
 <h3 align="left"> Excel Projects: </h3>
  
  <h3 align="left"> Tableau Visualisations: </h3>
      
-   </td>
- </tr>
-</table>
+
 
 
 
