@@ -33,6 +33,8 @@ Postgresql, Excel, Tableau Visualization, VS Code, Jupyter Notebook, Google Cola
      
 
 <h3 align="left"> Python Projects: </h3> 
+[Graphical Analysis to Detect Fraudulent Transactions](https://github.com/shakhscode/Visual_Analytics-python)
+
 
 <h3 align="left"> Excel Projects: </h3>
  
