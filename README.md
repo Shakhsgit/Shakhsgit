@@ -7,15 +7,14 @@ Hello ! I am a data science enthusiast. I beleive in data-centric solutions to r
 <h1  align = "center">Skills and Interests</h1>
 Some content
 Statistics,Numerical Data Analysis, Exploratory Data Analysis, Feature Engineering, Machine Learning, Data Visualization, Problem Solving, Communication skills.
-<h3 align="left">Programming Languages:</h3> 
-Python, MATLAB, SQL, (Familiar with C, C++)
+<h3 align="left">Programming :</h3> 
+SQL, Python, MATLAB, (Familiar with C, C++)
+
+<h3 align="left"> Editors and Tools:</h3> 
+Postgresql, VS Code, Jupyter Lab, Advance Excel, Tableau Desktop, Git and Github, Octave.
 
 <h3 align="left">Libraries and Frameworks:</h3>
 Numpy, Pandas
-
-<h3 align="left"> Editors and Tools:</h3> 
-Postgresql, Excel, Tableau Visualization, VS Code, Jupyter Notebook, Google Colab, Git and Github.
-
 
  <h1  align = "center">Projects</h1>
  <h3 align="left"> End-to-end projects: </h3>
