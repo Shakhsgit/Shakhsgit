@@ -1,7 +1,7 @@
 <h1 align="center"> Give me data I will tell you a story</h1>
 
 Hello ! I am a data enthusiast. I beleive in data-centric solutions to real world business problems.Learning is a never ending process and I enjoy to learn new concepts and skills everytime I try to solve a new problem. I will be glad if you like to collaborate or help me to solve new problems/projects or to discuss new ideas.
-#### Portfolio: [Portfolio Projects](getssultan@gmail.com)   || Tableau Public: [Tableau Visualisations](https://public.tableau.com/app/profile/shahrukh.sultan)
+#### Portfolio: [Portfolio Projects](getssultan@gmail.com)   || Tableau Visualisation: [Tableau Public](https://public.tableau.com/app/profile/shahrukh.sultan)
 #### Contacts: [LinkedIn](https://www.linkedin.com/profile/) , Email: getssultan@gmail.com
 
 <h1  align = "center">Skills and Interests</h1>
@@ -21,7 +21,7 @@ Numpy, Pandas
  <h1  align = "center">Projects</h1>
  <h3 align="left"> End-to-end projects: </h3>
      
-<h3 align="left"> SQL Projects </h3> 
+<h3 align="left"> SQL Projects: </h3> 
      
 
 ### Python Projects:
@@ -30,13 +30,10 @@ Numpy, Pandas
      
 
 
-<h3 align="left"> Excel Projects: </h3>
+### Excel Projects:
  
- <h3 align="left"> Tableau Visualisations: </h3>
+ ### Tableau Visualizations :  [Tableau Public](https://public.tableau.com/app/profile/shahrukh.sultan)
      
-
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakhscode&show_icons=true&locale=en&layout=compact" alt="shahkscode" /></p>
 
