@@ -15,6 +15,8 @@ SQL, Python, MATLAB, (Familiar with C, C++)
 <h3 align="left"> Editors and Tools:</h3> 
 Postgresql, VS Code, Jupyter Lab, Advance Excel, Tableau Desktop, Git and Github, Octave.
 
+### Soft skills:
+Interpersonal Communicaion, Public Sepaking, Presentation, Intercultural adaptibility.
 <h3 align="left">Libraries and Frameworks:</h3>
 Numpy, Pandas
 
