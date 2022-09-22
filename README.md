@@ -1,29 +1,45 @@
 <h1 align="center"> Give me data I will tell you a story</h1>
 
-Hello ! I am a data enthusiast. I beleive in data-centric solutions to real world business problems.Learning is a never ending process and I enjoy to learn new concepts and skills everytime I try to solve a new problem. I will be glad if you like to collaborate or help me to solve new problems/projects or to discuss new ideas.
+Hello ! I am a data enthusiast. I beleive in data-centric solutions to the real world business problems and my skills and interests totally support me.Learning is a never ending process and I enjoy to learn new concepts and skills everytime I try to solve a new problem. I will be glad if you like to collaborate or help me to solve new problems/projects or to discuss new ideas.
 #### Portfolio: [Portfolio Projects](getssultan@gmail.com)   || Tableau Visualisation: [Tableau Public](https://public.tableau.com/app/profile/shahrukh.sultan)
 #### Contacts: [LinkedIn](https://www.linkedin.com/profile/) , Email: getssultan@gmail.com
 
 <h1  align = "center">Skills and Interests</h1>
 <h3 align ='left'>  Base skills: </h3>
-Statistics, Data Preprocessing, Exploratory Data Analysis, Feature Engineering, Machine Learning, Data Visualization, 
+Statistics,Data Collection, Web scrapping, ETL, Data Preprocessing, Exploratory Data Analysis, Feature Engineering, Machine Learning, Data Visualization, 
 Problem Solving,Business Analytics,  Communication skills.
 
-<h3 align="left">Programming :</h3> 
-SQL, Python, MATLAB, (Familiar with C, C++)
+<h3 align="left">Programming Languages:</h3> 
+SQL, Python (VS Code, Jupyter Lab, Google Colab)  Familiar with C, C++
 
-Excel - Excel basics, Analytical Formulae, Pivot tables, Power Query, Power Pivot, Excel Charts, VBA Macros.
+### Data collection and ETL tools:
+- Database: MySQL, PostgresSQL, MongoDB
+- ETL tools: Alteryx, Excel Power Pivot.
+- Web Scrapping: Beautiful Soup, Excel Power Query.
+                  
+### Analytical tools:
+- Numpy,Pandas, Sklearn
+- Advance Excel ( Pivot tables, Power Query, Power Pivot,VBA Macros)
+- MATLAB
+- Octave
+### Data visualization:
+- Matplotlib, seaborn,pyvis, networkx, bokeh, panel.
+- Tableau desktop.
+- Excel Charts.
 
-<h3 align="left"> Editors and Tools:</h3> 
-Postgresql, VS Code, Jupyter Lab, Advance Excel, Tableau Desktop, Git and Github, Octave.
+### Web frameworks:
+- Flask
+- Django
+
+### Version control
+- Git and Github
 
 ### Soft skills:
 Interpersonal Communicaion, Public Sepaking, Presentation, Intercultural adaptibility.
-<h3 align="left">Libraries and Frameworks:</h3>
-Numpy, Pandas
 
  <h1  align = "center">Projects</h1>
- <h3 align="left"> End-to-end projects: </h3>
+ 
+<h3 align="left"> End-to-end projects: </h3>
      
 <h3 align="left"> SQL Projects: </h3> 
      
