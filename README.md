@@ -14,7 +14,7 @@ SQL, Python (VS Code, Jupyter Lab, Google Colab)  Familiar with C, C++
 
 ### Data collection and ETL tools:
 - Database: MySQL, PostgresSQL, MongoDB
-- ETL tools: Alteryx, Excel Power Pivot.
+- ETL tools: Excel Power Pivot.
 - Web Scrapping: Beautiful Soup, Excel Power Query.
                   
 ### Analytical tools:
