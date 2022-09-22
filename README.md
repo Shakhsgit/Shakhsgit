@@ -12,6 +12,8 @@ Problem Solving,Business Analytics,  Communication skills.
 <h3 align="left">Programming :</h3> 
 SQL, Python, MATLAB, (Familiar with C, C++)
 
+Excel - Excel basics, Analytical Formulae, Pivot tables, Power Query, Power Pivot, Excel Charts, VBA Macros.
+
 <h3 align="left"> Editors and Tools:</h3> 
 Postgresql, VS Code, Jupyter Lab, Advance Excel, Tableau Desktop, Git and Github, Octave.
 
