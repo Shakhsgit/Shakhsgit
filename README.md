@@ -18,7 +18,7 @@ SQL, Python (VS Code, Jupyter Lab, Google Colab)  Familiar with C, C++
 - Web Scrapping: Beautiful Soup, Excel Power Query.
                   
 ### Analytical tools:
-- Numpy,Pandas, Sklearn
+- Numpy,Pandas, dfply, sklearn
 - Advance Excel ( Pivot tables, Power Query, Power Pivot,VBA Macros)
 - MATLAB
 - Octave
