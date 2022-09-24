@@ -12,7 +12,7 @@ Problem Solving,Business Analytics,  Communication skills.
 <h3 align="left">Programming Languages:</h3> 
 SQL, Python (VS Code, Jupyter Lab, Google Colab)  Familiar with C, C++
 
-### Data collection and ETL tools:
+### Data collection and Extraction:
 - Database: MySQL, PostgresSQL, MongoDB
 - ETL tools: Excel Power Pivot.
 - Web Scrapping: Beautiful Soup, Excel Power Query.
