@@ -26,11 +26,7 @@ SQL, Python (VS Code, Jupyter Lab, Google Colab)  Familiar with C, C++
 - Matplotlib, seaborn,pyvis, networkx, bokeh, panel.
 - Tableau desktop.
 - Excel Charts.
-
-### Web frameworks:
-- Flask
-- Django
-
+- 
 ### Version control
 - Git and Github
 
