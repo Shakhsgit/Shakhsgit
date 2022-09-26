@@ -13,7 +13,7 @@ Problem Solving,Business Analytics,  Communication skills.
 SQL, Python (VS Code, Jupyter Lab, Google Colab)  Familiar with C, C++
 
 ### Data collection and Extraction:
-- Database: MySQL, PostgresSQL, MongoDB
+- Database: MySQL, PostgresSQL.
 - ETL tools: Excel Power Pivot.
 - Web Scrapping: Beautiful Soup, Excel Power Query.
                   
@@ -28,7 +28,8 @@ SQL, Python (VS Code, Jupyter Lab, Google Colab)  Familiar with C, C++
 - Excel Charts.
 ### Version control
 - Git and Github
-
+### Other Softwares
+Microsoft Word, Powerpoint, Adobe Photoshop.
 ### Soft skills:
 Interpersonal Communicaion, Public Sepaking, Presentation, Intercultural adaptibility.
 
