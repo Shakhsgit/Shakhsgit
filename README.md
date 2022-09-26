@@ -6,7 +6,7 @@ Hello ! I am a data enthusiast. I beleive in data-centric solutions to the real 
 
 <h1  align = "center">Skills and Interests</h1>
 <h3 align ='left'>  Base skills: </h3>
-Statistics,Data Collection, Web scrapping, ETL, Data Preprocessing, Exploratory Data Analysis, Feature Engineering, Machine Learning, Data Visualization, 
+Statistics,Data Collection, Web scrapping, Data Preprocessing, Exploratory Data Analysis, Machine Learning, Data Visualization, 
 Problem Solving,Business Analytics,  Communication skills.
 
 <h3 align="left">Programming Languages:</h3> 
