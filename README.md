@@ -4,49 +4,50 @@ Hello ! I am a data enthusiast. I beleive in data-centric solutions to the real 
 #### Portfolio: [Portfolio Projects](getssultan@gmail.com)   || Tableau Visualisation: [Tableau Public](https://public.tableau.com/app/profile/shahrukh.sultan)
 #### Contacts: [LinkedIn](https://www.linkedin.com/profile/) , Email: getssultan@gmail.com
 
-<h1  align = "center">Skills and Interests</h1>
-<h3 align ='left'>  Base skills: </h3>
+### My Skills :)
 Statistics,Data Collection, Web scrapping, Data Preprocessing, Exploratory Data Analysis, Machine Learning, Data Visualization, 
 Problem Solving,Business Analytics,  Communication skills.
 
-<h3 align="left">Programming Languages:</h3> 
+### Tools I use :)
+<h4 align="left">Programming Languages:</h3> 
 SQL, Python (VS Code, Jupyter Lab, Google Colab)  Familiar with C, C++
 
-### Data collection and Extraction:
-- Database: MySQL, PostgresSQL.
-- ETL tools: Excel Power Pivot.
-- Web Scrapping: Beautiful Soup, Excel Power Query.
+#### Database:
+- MySQL
+- PostgresSQL.
+
+#### Data extraction:
+- Beautiful Soup
+- Excel Power Query.
                   
-### Analytical tools:
-- Numpy,Pandas, dfply, sklearn
+#### Data Analysis:
+- Numpy,Pandas,Scipy, dfply, sklearn
 - Advance Excel ( Pivot tables, Power Query, Power Pivot,VBA Macros)
 - MATLAB
 - Octave
-### Data visualization:
+#### Data visualization:
 - Matplotlib, seaborn,pyvis, networkx, bokeh, panel.
 - Tableau desktop.
 - Excel Charts.
-### Version control
+#### Version control
 - Git and Github
-### Other Softwares
+#### Other Software
 Microsoft Word, Powerpoint, Adobe Photoshop.
-### Soft skills:
-Interpersonal Communicaion, Public Sepaking, Presentation, Intercultural adaptibility.
 
- <h1  align = "center">Projects</h1>
+ <h1  align = "center"> Some of my Projects</h1>
  
 <h3 align="left"> End-to-end projects: </h3>
      
 <h3 align="left"> SQL Projects: </h3> 
-     
+
+### Excel Projects:     
+- [Analysis of Inflation in G20 Countries from 1998 to 2022](https://github.com/shakhscode/Inflation_Report_1998-2022)
 
 ### Python Projects:
 - [Graphical Analysis to Detect Fradulent Transactions](https://github.com/shakhscode/Visual_Analytics-python)
 - 
      
 
-
-### Excel Projects:
  
  ### Tableau Visualizations :  [Tableau Public](https://public.tableau.com/app/profile/shahrukh.sultan)
      
