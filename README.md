@@ -1,8 +1,7 @@
 <h1 align="center"> Give me data I will tell you a story</h1>
 
 Hello ! I am a data enthusiast. I beleive in data-centric solutions to the real world business problems and my skills and interests totally support me.Learning is a never ending process and I enjoy to learn new concepts and skills everytime I try to solve a new problem. I will be glad if you like to collaborate or help me to solve new problems/projects or to discuss new ideas.
-#### Portfolio: [Portfolio Projects](getssultan@gmail.com)   || Tableau Visualisation: [Tableau Public](https://public.tableau.com/app/profile/shahrukh.sultan)
-#### Contacts: [LinkedIn](https://www.linkedin.com/profile/) , Email: getssultan@gmail.com
+#### Portfolio and Public Profiles: [Projects Portfolio](getssultan@gmail.com)   || [Tableau Public](https://public.tableau.com/app/profile/shahrukh.sultan)|| [LinkedIn](https://www.linkedin.com/profile/) || Email: getssultan@gmail.com
 
 <h2 align = 'center'> My Skills :) </h2>
 Statistics,Data Collection, Web scrapping, Data Cleaning, Data Preprocessing, Exploratory Data Analysis, Machine Learning, Data Visualization, 
