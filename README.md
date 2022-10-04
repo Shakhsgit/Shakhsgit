@@ -4,35 +4,25 @@ Hello ! I am a data enthusiast. I beleive in data-centric solutions to the real 
 #### Portfolio: [Portfolio Projects](getssultan@gmail.com)   || Tableau Visualisation: [Tableau Public](https://public.tableau.com/app/profile/shahrukh.sultan)
 #### Contacts: [LinkedIn](https://www.linkedin.com/profile/) , Email: getssultan@gmail.com
 
-### My Skills :)
-Statistics,Data Collection, Web scrapping, Data Preprocessing, Exploratory Data Analysis, Machine Learning, Data Visualization, 
+<h2 align = 'center'> My Skills :) </h2>
+Statistics,Data Collection, Web scrapping, Data Cleaning, Data Preprocessing, Exploratory Data Analysis, Machine Learning, Data Visualization, 
 Problem Solving,Business Analytics,  Communication skills.
 
-### Tools I use :)
-<h4 align="left">Programming Languages:</h3> 
-SQL, Python (VS Code, Jupyter Lab, Google Colab)  Familiar with C, C++
 
-#### Database:
-- MySQL
-- PostgresSQL.
+ <h2  align = "center"> Tools I use :) </h2>
 
-#### Data extraction:
-- Beautiful Soup
-- Excel Power Query.
-                  
-#### Data Analysis:
-- Numpy,Pandas,Scipy, dfply, sklearn
-- Advance Excel ( Pivot tables, Power Query, Power Pivot,VBA Macros)
-- MATLAB
-- Octave
-#### Data visualization:
-- Matplotlib, seaborn,pyvis, networkx, bokeh, panel.
-- Tableau desktop.
-- Excel Charts.
-#### Version control
-- Git and Github
-#### Other Software
-Microsoft Word, Powerpoint, Adobe Photoshop.
+Purpose | Tools/Software/Libraries
+----------|----------
+Programming| Python (VS Code, Jupyter Lab, Google Colab), Familiar with C, C++
+ Database | MySQL, PostgreSQL
+Data Extraction | Beautiful Soup, Excel Power Query
+Data Analysis | Numpy, Pandas, Scipy, Dfply,sklearn, Microsoft Excel
+Numerical Data Analysis | MATLAB, Octave
+Data Visualization | Matplotlib, Seaborn, pyvis, Bokeh, Panel
+Visual Reporting | Tableau Desktop, Excel Charts
+Version Control | Git and Github
+Others | Microsoft Word, Powerpoint, Adobe Photoshop
+
 
  <h1  align = "center"> Some of my Projects</h1>
  
@@ -41,15 +31,14 @@ Microsoft Word, Powerpoint, Adobe Photoshop.
 <h3 align="left"> SQL Projects: </h3> 
 
 ### Excel Projects:     
-- [Analysis of Inflation in G20 Countries from 1998 to 2022](https://github.com/shakhscode/Inflation_Report_1998-2022)
+- [Analysis of Inflation in G20 Countries.](https://github.com/shakhscode/Inflation_Report_1998-2022)
 
 ### Python Projects:
-- [Graphical Analysis to Detect Fradulent Transactions](https://github.com/shakhscode/Visual_Analytics-python)
+- [Graphical Analysis to Detect Fradulent Transactions.](https://github.com/shakhscode/Visual_Analytics-python)
 - 
-     
-
  
  ### Tableau Visualizations :  [Tableau Public](https://public.tableau.com/app/profile/shahrukh.sultan)
+ 
      
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakhscode&show_icons=true&locale=en&layout=compact" alt="shahkscode" /></p>
