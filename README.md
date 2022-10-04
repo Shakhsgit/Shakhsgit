@@ -36,8 +36,8 @@ Others | Microsoft Word, Powerpoint, Adobe Photoshop
 - [Graphical Analysis to Detect Fradulent Transactions.](https://github.com/shakhscode/Visual_Analytics-python)
 - 
  
- ### Tableau Visualizations :  [Tableau Public](https://public.tableau.com/app/profile/shahrukh.sultan)
- 
+
+*** 
      
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakhscode&show_icons=true&locale=en&layout=compact" alt="shahkscode" /></p>
