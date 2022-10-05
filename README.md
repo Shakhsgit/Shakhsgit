@@ -45,7 +45,7 @@ A visual analytics task to detect fraud transactions using visualization techniq
 
 **Used tools:** python, numpy, pandas, pyvis, networkx
 
-**Experience gained:** Data cleaning, Data Visualization.
+**Experience gained:** Data cleaning, Data visualization.
 
 - 
  
