@@ -9,21 +9,27 @@ Problem Solving,Business Analytics,  Communication skills.
 
 
  <h2  align = "center"> Tools I use :) </h2>
+ 
+**Programming:** Python (VS Code, Jupyter Lab, Google Colab), Familiar with C, C++
 
-Purpose | Tools/Software/Libraries
-----------|----------
-Programming| Python (VS Code, Jupyter Lab, Google Colab), Familiar with C, C++
- Database | MySQL, PostgreSQL
-Data Extraction | Beautiful Soup, Excel Power Query
-Data Analysis | Numpy, Pandas, Scipy, Dfply,sklearn, Microsoft Excel
-Numerical Data Analysis | MATLAB, Octave
-Data Visualization | Matplotlib, Seaborn, pyvis, Bokeh, Panel
-Visual Reporting | Tableau Desktop, Excel Charts
-Version Control | Git and Github
-Others | Microsoft Word, Powerpoint, Adobe Photoshop
+ **Database:** MySQL, PostgreSQL
+ 
+**Data Extraction:** Beautiful Soup, Excel Power Query
+
+**Data Analysis:** Numpy, Pandas, Scipy, Dfply,sklearn, Microsoft Excel
+
+**Numerical Data Analysis:**  MATLAB, Octave
+
+**Data Visualization:** Matplotlib, Seaborn, pyvis, Bokeh, Panel
+
+**Visual Reporting:** Tableau Desktop, Excel Charts
+
+**Version Control:** Git and Github
+
+**Others:** Microsoft Word, Powerpoint, Adobe Photoshop
 
 
- <h1  align = "center"> Some of my Projects</h1>
+ <h1  align = "center"> Some of my projects</h1>
  
 <h3 align="left"> End-to-end projects: </h3>
      
@@ -34,8 +40,11 @@ Others | Microsoft Word, Powerpoint, Adobe Photoshop
 
 ### Python Projects:
 - [Visual Analysis to Detect Fraudulent Transactions.](https://github.com/shakhscode/VisualAnalyticsUsingGraphNetworks)
-A visual Analytics project to detect fraud transactions using visualization techniques only. The task is solved using graph network visualization.
+
+A visual analytics task to detect fraud transactions using visualization techniques only. The task is solved using graph network visualization.
+
 **Used tools:** python, numpy, pandas, pyvis, networkx
+
 **Experience gained:** Data cleaning, Data Visualization.
 
 - 
