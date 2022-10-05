@@ -33,7 +33,11 @@ Others | Microsoft Word, Powerpoint, Adobe Photoshop
 - [Analysis of Inflation in G20 Countries.](https://github.com/shakhscode/Inflation_Report_1998-2022)
 
 ### Python Projects:
-- [Graphical Analysis to Detect Fradulent Transactions.](https://github.com/shakhscode/Visual_Analytics-python)
+- [Visual Analysis to Detect Fraudulent Transactions.](https://github.com/shakhscode/VisualAnalyticsUsingGraphNetworks)
+A visual Analytics project to detect fraud transactions using visualization techniques only. The task is solved using graph network visualization.
+**Used tools:** python, numpy, pandas, pyvis, networkx
+**Experience gained:** Data cleaning, Data Visualization.
+
 - 
  
 
