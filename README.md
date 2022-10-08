@@ -36,22 +36,29 @@ Problem Solving,Business Analytics,  Communication skills.
 <h3 align="left"> SQL Projects: </h3> 
 
 ### Excel Projects:     
-- [Analysis of Inflation in G20 Countries.](https://github.com/shakhscode/Inflation_Report_1998-2022)
+> [Analysis of Inflation and GDP Growth](https://github.com/shakhscode/Inflation-and-GDP-Growth-Analysis-G20Countries#inflation-and-gdp-growth-analysis-g20-countries)
+
+A project to analyse inflation and GDP growth rate in G20 countries from 1998 to 2022 that involves data extraction, data cleaning, data transformation, integration. The prepared data set is used to forecast inflation in 2022 then it is compared with real inflation in 2022. Finally an interactive and dynamic dashboard is designed to visualize the insights.
+
+Used tools: Excel Power Query, Pivot tables, Pivot charts.
+
+Experience gained: Data extraction with Power Query, data cleaning, data transformation, data visualization, dashboarding.
+
 
 ### Python Projects:
-- [Python Web Application](https://github.com/shakhscode/WebApplicationPrototype-using-Bokeh-Panel#python-web-app-prototype)
+> [Python Web Application](https://github.com/shakhscode/WebApplicationPrototype-using-Bokeh-Panel#python-web-app-prototype)
 
 Designed a prototype of a web application using Bokeh and Panel library. The project prototype basically shows how we can easily build a fully operational website using python libraries like Bokeh and Panel without using web framework like Flask and Django.
 
-**Used tools:** python, matplotlib, bokeh, panel
+Used tools: python, matplotlib, bokeh, panel
 
-- [Visual Analysis to Detect Fraudulent Transactions.](https://github.com/shakhscode/VisualAnalyticsUsingGraphNetworks)
+> [Visual Analysis to Detect Fraudulent Transactions.](https://github.com/shakhscode/VisualAnalyticsUsingGraphNetworks)
 
 A visual analytics task to detect fraud transactions using visualization techniques only. The task is solved using graph network visualization.
 
-**Used tools:** python, numpy, pandas, pyvis, networkx
+Used tools: python, numpy, pandas, pyvis, networkx
 
-**Experience gained:** Data cleaning, Data visualization.
+Experience gained: Data cleaning, Data visualization.
 
  
 
