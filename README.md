@@ -39,6 +39,12 @@ Problem Solving,Business Analytics,  Communication skills.
 - [Analysis of Inflation in G20 Countries.](https://github.com/shakhscode/Inflation_Report_1998-2022)
 
 ### Python Projects:
+- [Python Web Application](https://github.com/shakhscode/WebApplicationPrototype-using-Bokeh-Panel#python-web-app-prototype)
+
+Designed a prototype of a web application using Bokeh and Panel library. The project prototype basically shows how we can easily build a fully operational website using python libraries like Bokeh and Panel without using web framework like Flask and Django.
+
+**Used tools:** python, matplotlib, bokeh, panel
+
 - [Visual Analysis to Detect Fraudulent Transactions.](https://github.com/shakhscode/VisualAnalyticsUsingGraphNetworks)
 
 A visual analytics task to detect fraud transactions using visualization techniques only. The task is solved using graph network visualization.
@@ -47,7 +53,6 @@ A visual analytics task to detect fraud transactions using visualization techniq
 
 **Experience gained:** Data cleaning, Data visualization.
 
-- 
  
 
 *** 
