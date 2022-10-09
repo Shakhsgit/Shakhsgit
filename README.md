@@ -4,7 +4,7 @@ Hello ! I am a data enthusiast. I beleive in data-centric solutions to the real 
 #### Portfolio: [Projects Portfolio](getssultan@gmail.com) || Public Profiles:[LinkedIn](https://www.linkedin.com/in/shahrukh-sultan-150a381b6/) || [Tableau Public](https://public.tableau.com/app/profile/shahrukh.sultan)|| Email: getssultan@gmail.com
 
 <h2 align = 'center'> My Skills :) </h2>
-Statistics,Data Collection, Web scrapping, Data Cleaning, Data Preprocessing, Exploratory Data Analysis, Machine Learning, Data Visualization, 
+Statistics,Data Collection, Data Cleaning, Data Preprocessing, Exploratory Data Analysis, Machine Learning, Data Visualization, 
 Problem Solving,Business Analytics,  Communication skills.
 
 
@@ -14,13 +14,13 @@ Problem Solving,Business Analytics,  Communication skills.
 
  **Database:** MySQL, PostgreSQL
  
-**Data Extraction:** Beautiful Soup, Excel Power Query
+**Data Extraction:** Excel Power Query
 
-**Data Analysis:** Numpy, Pandas, Scipy, Dfply,sklearn, Microsoft Excel
+**Data Analysis:** Numpy, Pandas, Scipy,Sklearn
 
-**Numerical Data Analysis:**  MATLAB, Octave
+**Numerical Data Analysis:**  Microsoft Excel, MATLAB, Octave
 
-**Data Visualization:** Matplotlib, Seaborn, pyvis, Bokeh, Panel
+**Data Visualization:** Matplotlib, Seaborn, Bokeh, Panel
 
 **Visual Reporting:** Tableau Desktop, Excel Charts
 
