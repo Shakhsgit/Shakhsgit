@@ -16,9 +16,11 @@ Problem Solving,Business Analytics,  Communication skills.
  
 **Data Extraction:** Excel Power Query
 
-**Data Analysis:** Numpy, Pandas, Scipy,Sklearn
+**Data Analysis libraries:** Numpy, Pandas, Scipy,Sklearn
 
-**Numerical Data Analysis:**  Microsoft Excel, MATLAB, Octave
+**Data Analysis tools:**  Microsoft Excel - lookup, Pivot tables, Power Query, Power Pivot
+
+**Numerical data Ananlysis:** MATLAB, Octave
 
 **Data Visualization:** Matplotlib, Seaborn, Bokeh, Panel
 
