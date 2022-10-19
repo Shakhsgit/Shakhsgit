@@ -24,7 +24,7 @@ Problem Solving,Business Analytics,  Communication skills.
 
 **Data Visualization:** Matplotlib, Seaborn, Bokeh, Panel
 
-**Visual Reporting:** Tableau Desktop, Excel Charts
+**Dashboarding :** Tableau Desktop, Power BI, Excel Charts, Pivot Charts.
 
 **Version Control:** Git and Github
 
