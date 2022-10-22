@@ -41,6 +41,7 @@ Problem Solving,Business Analytics,  Communication skills.
 > ### [Analysis of Inflation and GDP Growth](https://github.com/shakhscode/Inflation-and-GDP-Growth-Analysis-G20Countries#inflation-and-gdp-growth-analysis-g20-countries)
 
 **Aim of the project:**
+
 Analysing inflation and GDP growth rate in G20 countries and preparing a visual report that shows the following insights
 - How inflation and GDP growth rate changed in G20 countries from 1998 to 2022.
 - In a particular year which country faced highest inflation, lowest inflation and had highest GDP growth rate, lowest GDP growth rate ?
@@ -52,6 +53,7 @@ Analysing inflation and GDP growth rate in G20 countries and preparing a visual 
 - Pivot Tables and Pivot Charts - To design an interactive dashboard.
 
 **Experience gained:**
+
 Data Extraction,Data Cleaning, Data Transformation and Integration, Dashboarding
 
 
@@ -65,12 +67,15 @@ Used tools: python, matplotlib, bokeh, panel
 > ### [Visual Analysis to Detect Fraudulent Transactions](https://github.com/shakhscode/VisualAnalyticsUsingGraphNetworks#detection-of-fraudulent-transactions-by-graphical-analysis)
 
 **Aim:**
+
 A visual analytics task to detect fraud transactions using visualization techniques only. The task is solved using graph network visualization.
 
 **Used tools:**
+
 python, numpy, pandas, pyvis, networkx
 
 **Experience gained:**
+
 Data cleaning, Data visualization.
 
 
