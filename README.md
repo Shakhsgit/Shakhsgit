@@ -46,7 +46,7 @@ Analysing inflation and GDP growth rate in G20 countries and preparing a visual 
 - In a particular year which country faced highest inflation, lowest inflation and had highest GDP growth rate, lowest GDP growth rate ?
 - For a particular G20 country which was the best year and the worst year for Inflation and GDP growth rate.
 - Is inflation in 2022 higher than all time average ? Is it higher than forecasted rate ?
-- 
+
 **Used tools:**
 - Excel Power Query - For data extraction and data cleaning
 - Pivot Tables and Pivot Charts - To design an interactive dashboard.
