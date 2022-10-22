@@ -33,11 +33,11 @@ Problem Solving,Business Analytics,  Communication skills.
 
  <h1  align = "center"> Some of my projects</h1>
  
-<h3 align="left"> End-to-end projects: </h3>
+<h2 align="left"> End-to-end projects </h2>
      
-<h3 align="left"> SQL Projects: </h3> 
+<h2 align="left"> SQL Projects </h2> 
 
-## Excel Projects:     
+## Excel Projects     
 > ### [Analysis of Inflation and GDP Growth](https://github.com/shakhscode/Inflation-and-GDP-Growth-Analysis-G20Countries#inflation-and-gdp-growth-analysis-g20-countries)
 
 **Aim of the project:**
@@ -57,16 +57,25 @@ Analysing inflation and GDP growth rate in G20 countries and preparing a visual 
 Data Extraction,Data Cleaning, Data Transformation and Integration, Dashboarding
 
 
-## Python Projects:
-> ### [Python Web Application](https://github.com/shakhscode/WebApplicationPrototype-using-Bokeh-Panel#python-web-app-prototype)
+## Python Projects
+> ### [Python Web Application using Bokeh & Panel](https://github.com/shakhscode/WebApplicationPrototype-using-Bokeh-Panel/blob/main/README.md#python-web-application-using-bokeh--panel)
 
-Designed a prototype of a web application using Bokeh and Panel library. The project prototype basically shows how we can easily build a fully operational website using python libraries like Bokeh and Panel without using web framework like Flask and Django.
+**Aim of the project:**
 
-Used tools: python, matplotlib, bokeh, panel
+Designing a multi-interface interactive web application using python Bokeh and Panel that takes login information from the user and shows a visual report.
+
+**Used tools:**
+
+Python, Matplotlib, Bokeh, Panel.
+
+**Experience gained:**
+
+Dashboarding with python panel, Designing interactive web application with Bokeh.
+
 
 > ### [Visual Analysis to Detect Fraudulent Transactions](https://github.com/shakhscode/VisualAnalyticsUsingGraphNetworks#detection-of-fraudulent-transactions-by-graphical-analysis)
 
-**Aim:**
+**Aim of the project:**
 
 A visual analytics task to detect fraud transactions using visualization techniques only. The task is solved using graph network visualization.
 
