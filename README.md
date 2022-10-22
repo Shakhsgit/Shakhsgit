@@ -37,14 +37,22 @@ Problem Solving,Business Analytics,  Communication skills.
      
 <h3 align="left"> SQL Projects: </h3> 
 
-### Excel Projects:     
-> [Analysis of Inflation and GDP Growth](https://github.com/shakhscode/Inflation-and-GDP-Growth-Analysis-G20Countries#inflation-and-gdp-growth-analysis-g20-countries)
+## Excel Projects:     
+> ### [Analysis of Inflation and GDP Growth](https://github.com/shakhscode/Inflation-and-GDP-Growth-Analysis-G20Countries#inflation-and-gdp-growth-analysis-g20-countries)
 
-A project to analyse inflation and GDP growth rate in G20 countries from 1998 to 2022 that involves data extraction, data cleaning, data transformation, integration. The prepared data set is used to forecast inflation in 2022 then it is compared with real inflation in 2022. Finally an interactive and dynamic dashboard is designed to visualize the insights.
+**Aim of the project:**
+Analysing inflation and GDP growth rate in G20 countries and preparing a visual report that shows the following insights
+- How inflation and GDP growth rate changed in G20 countries from 1998 to 2022.
+- In a particular year which country faced highest inflation, lowest inflation and had highest GDP growth rate, lowest GDP growth rate ?
+- For a particular G20 country which was the best year and the worst year for Inflation and GDP growth rate.
+- Is inflation in 2022 higher than all time average ? Is it higher than forecasted rate ?
+- 
+**Used tools:**
+- Excel Power Query - For data extraction and data cleaning
+- Pivot Tables and Pivot Charts - To design an interactive dashboard.
 
-Used tools: Excel Power Query, Pivot tables, Pivot charts.
-
-Experience gained: Data extraction with Power Query, data cleaning, data transformation, data visualization, dashboarding.
+**Experience gained:**
+Data Extraction,Data Cleaning, Data Transformation and Integration, Dashboarding
 
 
 ## Python Projects:
