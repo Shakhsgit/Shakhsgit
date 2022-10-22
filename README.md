@@ -62,7 +62,7 @@ Designed a prototype of a web application using Bokeh and Panel library. The pro
 
 Used tools: python, matplotlib, bokeh, panel
 
-> ### [Visual Analysis to Detect Fraudulent Transactions.](https://github.com/shakhscode/VisualAnalyticsUsingGraphNetworks/edit/main/README.md)
+> ### [Visual Analysis to Detect Fraudulent Transactions](https://github.com/shakhscode/VisualAnalyticsUsingGraphNetworks#detection-of-fraudulent-transactions-by-graphical-analysis)
 
 **Aim:**
 A visual analytics task to detect fraud transactions using visualization techniques only. The task is solved using graph network visualization.
