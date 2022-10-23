@@ -35,7 +35,21 @@ Problem Solving,Business Analytics,  Communication skills.
  
 <h2 align="left"> End-to-end projects </h2>
      
-<h2 align="left"> SQL Projects </h2> 
+## SQL Projects
+> ### [Data Cleaning and Exploration with SQL-Hotel Bookings Dataset](https://github.com/shakhscode/DataCleaningAndExploration-with-SQL-HotelBookings-dataset#data-cleaning-and-exploration-with-sql-hotel-bookings-dataset)
+
+**Aim of the project:**
+- Cleaning and preparing a messy dataset for analysis.
+- Building SQL logic for data cleaning operations like cleaning missing values, duplicate values etc.
+- Exploratory data analysis using SQL.
+
+**Used tools:** 
+- SQL (PostgreSQL)
+- Python-Pandas, Psycopg2 (VS Code)
+
+**Experience gained:**
+- How to create a dynamic table in a database.
+- Data cleaning using SQL.
 
 ## Excel Projects     
 > ### [Analysis of Inflation and GDP Growth](https://github.com/shakhscode/Inflation-and-GDP-Growth-Analysis-G20Countries#inflation-and-gdp-growth-analysis-g20-countries)
