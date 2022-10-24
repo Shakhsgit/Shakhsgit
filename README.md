@@ -33,7 +33,6 @@ Problem Solving,Business Analytics,  Communication skills.
 
  <h1  align = "center"> Some of my projects</h1>
  
-<h2 align="left"> End-to-end projects </h2>
      
 ## SQL Projects
 > ### [Data Cleaning and Exploration with SQL-Hotel Bookings Dataset](https://github.com/shakhscode/DataCleaningAndExploration-with-SQL-HotelBookings-dataset#data-cleaning-and-exploration-with-sql-hotel-bookings-dataset)
