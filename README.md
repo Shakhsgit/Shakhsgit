@@ -16,8 +16,6 @@ Communication, Presentation, Team work, Adaptibility, Self learning ability.
 **Programming:** Python (VS Code, Jupyter Lab, Google Colab), Familiar with C, C++
 
  **Database:** MySQL, PostgreSQL
- 
-**Data Extraction:** Excel Power Query
 
 **Data Analysis libraries:** Numpy, Pandas, Scipy,Sklearn
 
