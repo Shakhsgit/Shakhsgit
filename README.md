@@ -72,6 +72,26 @@ Analysing inflation and GDP growth rate in G20 countries and preparing a visual 
 
 Data Extraction,Data Cleaning, Data Transformation and Integration, Dashboarding
 
+> ### [Data-Modeling-and-Interactive-Dashboarding-using-Excel](https://github.com/shakhscode/Data-Modeling-and-Interactive-Dashboarding-using-Excel/blob/main/README.md#data-modeling-and-interactive-dashboarding-using-excel)
+**Aim of the project:**
+1. Analysis of a Pizza sales dataset to find out insights like
+- Monthly sales trend.
+- Whether sales was higher on weekdays or weekends ?
+- Peak time on a day when highest orders were received ?
+- Best selling pizzas and lowest selling pizzas etc.
+2. Data modeling using Power Pivot in Excel.
+3. Exploring Excel features to accomplish a data analysis project entirely in Excel.
+
+**Used tools:**
+- Excel Power Query- For data loading.
+- Power Pivot in Excel - For data modeling.
+- DAX - For data analysis.
+- Excel Charts, Pivot Tables and Pivot Charts - To design an interactive dashboard.
+
+**Experience gained:**
+
+Data Integration, Data Modelling, Interactive Dashboard designing.
+
 
 ## Python Projects
 > ### [Python Web Application using Bokeh & Panel](https://github.com/shakhscode/WebApplicationPrototype-using-Bokeh-Panel/blob/main/README.md#python-web-application-using-bokeh--panel)
