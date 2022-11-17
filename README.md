@@ -77,7 +77,7 @@ Data Extraction,Data Cleaning, Data Transformation and Integration, Dashboarding
 - Whether sales was higher on weekdays or weekends ?
 - Peak time on a day when highest orders were received ?
 - Best selling pizzas and lowest selling pizzas etc.
-2. Data modeling using Power Pivot in Excel.
+2. Learning data modeling using Power Pivot in Excel.
 3. Exploring Excel features to accomplish a data analysis project entirely in Excel.
 
 **Used tools:**
