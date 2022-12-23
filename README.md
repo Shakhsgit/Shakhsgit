@@ -127,7 +127,7 @@ Data cleaning, Data visualization.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakhscode&show_icons=true&locale=en&layout=compact" alt="shahkscode" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakhscode&show_icons=true&locale=en" alt="shahkscode" /></p>
+
 
 
 
